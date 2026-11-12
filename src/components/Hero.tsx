@@ -124,7 +124,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenResume }) => {
                 onError={(e) => {
                   // Fallback if local image not found
                   const target = e.currentTarget;
-                  target.src = '/src/assets/images/profile_1794491284244.jpg';
+                  target.src = '/src/assets/images/profile_1794491284244.jpeg';
                 }}
               />
               {/* Clean bottom credit caption */}

@@ -37,7 +37,7 @@ export const PERSONAL_INFO = {
   linkedinUrl: 'https://www.linkedin.com/in/anthati-ramya',
   resumePdfUrl: '/Anthati_Ramya_Resume.pdf',
   fallbackPdfUrl: '/Accelor-hackerresume.pdf',
-  profileImage: '/profile.jpg',
+  profileImage: '/.profile_1794491284244.jpeg',
   intro:
     'I am a Computer Science and Engineering student interested in software development, full-stack technologies, mobile application development, and problem-solving. I enjoy building practical applications and exploring new technologies to develop useful solutions.'
 };
